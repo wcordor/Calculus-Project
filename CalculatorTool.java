@@ -377,15 +377,5 @@ public class CalculatorTool {
         }
 
         
-        //String path = "C:\\CalcResults";
-
-        /*File file = new File(fileName);
-        
-        
-
-        File[] files = dir.listFiles();
-        File dir = new File();Z*/
-
-        
     }
 }
